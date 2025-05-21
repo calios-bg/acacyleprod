@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
 Sitemap: https://acacyleprod.pro/sitemap.xml
+# Réseaux sociaux
+Social: https://www.instagram.com/le_prod_service?igsh=MXNycHZsbXRnY2I0OA==https://www.instagram.com/le_prod_service?igsh=MXNycHZsbXRnY2I0OA==
+Social: https://www.facebook.com/share/1ApM75dzBm/
+Social: https://youtube.com/@acacy_prod?si=S6KsOOFtxNpNvhDz
+Social: https://www.tiktok.com/@leprod45?_t=ZT-8wKqTfdwVnH&_r=1
